@@ -54,106 +54,122 @@ header .btn1 {
   font-size: 40px;
   font-weight: bold;
 }
-.sec2 .card1{
-    height: 244px;
-    width: 302px;
-    border-radius: 16px;
-    display: flex;
-    gap: 34px;
-    justify-content: space-evenly;
+.sec2 .card1 {
+  height: 244px;
+  width: 302px;
+  border-radius: 16px;
+  display: flex;
+  gap: 34px;
+  justify-content: space-evenly;
 }
-.sec2 .card1 .m-card{
-    padding: 24px;
-    background-color: #FFFFFF;
+.sec2 .card1 .m-card {
+  padding: 24px;
+  background-color: #ffffff;
 }
-.m-card h3,p{
-    width: 254px;
-    font-size: 20px;
+.m-card h3,
+p {
+  width: 254px;
+  font-size: 20px;
 }
-.sec3{
+.sec3 {
   height: 765px;
   margin-top: 60px;
 }
-.sec3 .txt p{
+.sec3 .txt p {
   width: 1248px;
   font-size: 18px;
   font-weight: 400;
 }
-.sec3 .txt h1{
+.sec3 .txt h1 {
   font-size: 40px;
   font-weight: bold;
 }
-.sec3 .card{
+.sec3 .card {
   height: 325px;
   display: flex;
   gap: 40px;
   justify-content: space-between;
   align-items: center;
-  margin-top: 80px;
+  margin-top: 60px;
 }
-.c1{
+.c1 {
   width: 410.67px;
   height: 300px;
   background-color: #548ff565;
   padding: 32px;
   border-radius: 16px;
 }
-.c1 p{
+.c1 p {
   font-size: 18px;
   width: 346px;
 }
-.c1 .b1{
+.c1 .b1 {
   height: 41px;
   width: 122px;
-  background-color: #5490F5;
+  background-color: #5490f5;
   border: none;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 700;
   margin-top: 20px;
 }
 
-.c2{
+.c2 {
   width: 410.67px;
   height: 300px;
-  background-color: #C6E4D6;
+  background-color: #c6e4d6;
   padding: 32px;
   border-radius: 16px;
 }
-.c2 p{
+.c2 p {
   font-size: 18px;
   width: 346px;
   line-height: 30px;
 }
-.c2 .b2{
+.c2 .b2 {
   height: 41px;
   width: 122px;
-  background-color: #09A15C;
+  background-color: #09a15c;
   border: none;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 700;
   margin-top: 20px;
 }
 
-.c3{
+.c3 {
   width: 410.67px;
   height: 300px;
-  background-color: #F7EBCF;
+  background-color: #f7ebcf;
   padding: 32px;
   border-radius: 16px;
 }
-.c3 p{
+.c3 p {
   font-size: 18px;
   width: 346px;
 }
-.c3 .b3{
+.c3 .b3 {
   height: 41px;
   width: 122px;
-  background-color: #FFC239;
+  background-color: #ffc239;
   border: none;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 700;
   margin-top: 20px;
+}
+.yunus {
+  margin-top: 60px;
+  height: 256px;
+  background-image: url(assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-color: #ffffff;
+  padding: 48px 24px;
+  border-radius: 16px;
+}
+.yunus p {
+  width: 1280px;
+  line-height: 30px;
+  opacity: 0.7;
 }
